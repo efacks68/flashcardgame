@@ -1,4 +1,4 @@
-#Flash Card Game-Languages
+# Flash Card Game-Languages
 
 This is a game to help me practice the languages I am learning, Norsk and Español. 
 
@@ -8,7 +8,8 @@ Thank you for viewing as I build this code from simple to complex.
 
 
 
-Thanks to the creators of the create-react-app command through which I am running the server for viewing the game.
+
+Thanks to the creators of the create-react-app command that I am using for building this game. Their README text is as follows:
 
 
 # Getting Started with Create React App
